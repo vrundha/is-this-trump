@@ -1,4 +1,4 @@
-# trump-or-not-bot
+# is-this-trump
 A bot that talks like Donald J Trump. Generate facebook statuses like Trump using GPT2 and [Transformers](https://github.com/huggingface/transformers).
 
 See [this notebook](https://github.com/vrundha/trump-or-not/blob/main/Usage.ipynb) for dataset and usage. 
